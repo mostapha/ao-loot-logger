@@ -5,11 +5,11 @@
   "main": "src/index.js",
   "bin": "src/index.js",
   "private": true,
-  "homepage": "https://github.com/matheussampaio/ao-loot-logger#readme",
+  "homepage": "https://github.com/mostapha/ao-loot-logger#readme",
   "license": "GNU GPLv3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/matheussampaio/ao-loot-logger.git"
+    "url": "https://github.com/mostapha/ao-loot-logger.git"
   },
   "scripts": {
     "start": "node src/index.js",
@@ -25,7 +25,7 @@
     "url": "https://www.buymeacoffee.com/matheussampaio"
   },
   "bugs": {
-    "url": "https://github.com/matheussampaio/ao-loot-logger/issues",
+    "url": "https://github.com/mostapha/ao-loot-logger/issues",
     "email": "matheus@sampaio.us"
   },
   "keywords": [
